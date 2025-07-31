@@ -1,0 +1,20 @@
+﻿  main.cpp
+C:\Uni\3rd\Data Structures project\Project\Project\main.cpp(33,92): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Uni\3rd\Data Structures project\Project\Project\main.cpp(33,92): warning C4244:         with
+C:\Uni\3rd\Data Structures project\Project\Project\main.cpp(33,92): warning C4244:         [
+C:\Uni\3rd\Data Structures project\Project\Project\main.cpp(33,92): warning C4244:             T=unsigned int
+C:\Uni\3rd\Data Structures project\Project\Project\main.cpp(33,92): warning C4244:         ]
+C:\Uni\3rd\Data Structures project\Project\Project\main.cpp(33,92): warning C4244:         and
+C:\Uni\3rd\Data Structures project\Project\Project\main.cpp(33,92): warning C4244:         [
+C:\Uni\3rd\Data Structures project\Project\Project\main.cpp(33,92): warning C4244:             T=float
+C:\Uni\3rd\Data Structures project\Project\Project\main.cpp(33,92): warning C4244:         ]
+C:\Uni\3rd\Data Structures project\Project\Project\main.cpp(33,67): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Uni\3rd\Data Structures project\Project\Project\main.cpp(33,67): warning C4244:         with
+C:\Uni\3rd\Data Structures project\Project\Project\main.cpp(33,67): warning C4244:         [
+C:\Uni\3rd\Data Structures project\Project\Project\main.cpp(33,67): warning C4244:             T=unsigned int
+C:\Uni\3rd\Data Structures project\Project\Project\main.cpp(33,67): warning C4244:         ]
+C:\Uni\3rd\Data Structures project\Project\Project\main.cpp(33,67): warning C4244:         and
+C:\Uni\3rd\Data Structures project\Project\Project\main.cpp(33,67): warning C4244:         [
+C:\Uni\3rd\Data Structures project\Project\Project\main.cpp(33,67): warning C4244:             T=float
+C:\Uni\3rd\Data Structures project\Project\Project\main.cpp(33,67): warning C4244:         ]
+  Project.vcxproj -> C:\Uni\3rd\Data Structures project\Project\x64\Debug\Project.exe
